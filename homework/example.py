@@ -1,4 +1,4 @@
-import linear_regression  # type: ignore
+import homework.linear_regression as linear_regression  # type: ignore
 import pandas as pd  # type: ignore
 
 
